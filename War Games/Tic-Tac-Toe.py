@@ -2,3 +2,7 @@
 
 #@author: Jake Stepp
 
+
+players = input("One or Two Players \n Please list Number \n of Players: ")
+
+print(players)
