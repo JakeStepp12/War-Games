@@ -1,10 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 19 23:45:59 2023
+#Created on Mon Jun 19 23:45:59 2023
 
-@author: Jake Stepp
-"""
-
+#@author: Jake Stepp
 
 #This is a replication of how I would code the WOPR Program from the movie, War Games
 
@@ -48,5 +44,3 @@ if numberSelection == "(311) 399-2364" or "3113992364" or "311 399 2364":
             
 else:
     print ("Number invalid; Select another Number")
-    
-# todo Tick Tac Toe
